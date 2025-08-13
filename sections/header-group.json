@@ -24,7 +24,7 @@
         "message_PFG7LT": {
           "type": "message",
           "settings": {
-            "text": "✨ Marque n°1 officielle pour le microneedling.",
+            "text": "✨ Livraison gratuite pour les commandes de plus de 50€.",
             "url": ""
           }
         },
@@ -58,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/rosevia_noir.png",
         "logo_max_width": 225,
         "logo_mobile_max_width": 130,
         "menu": "main-menu",
