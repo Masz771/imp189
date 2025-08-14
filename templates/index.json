@@ -132,6 +132,68 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_b6XNjd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QyNrwj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-14_184749.png",
+            "column_size": "4",
+            "title": "Anaïs M.",
+            "heading_tag": "h4",
+            "content": "<p>\"J’adore Glowless ! Ma peau brille beaucoup moins dans la journée et l’odeur de lavande est super agréable. Je le recommande à tous ceux qui veulent un fini mat naturel sans assécher la peau.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cx4K3Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1692809726__3f742c293e664215a83dac1d1a05790etplv-o3s__original.avif",
+            "column_size": "4",
+            "title": "Elena I.",
+            "heading_tag": "h4",
+            "content": "<p>J’apprécievraiment le format compact avec le mini miroir, parfait pour l’avoir toujours avec moi. La texture est agréable et matifie ma peau sans la dessécher. Je suis conquise !\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XDJUU9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1720301689__img_3842__original.avif",
+            "column_size": "4",
+            "title": "John H.",
+            "heading_tag": "h4",
+            "content": "<p>\"Je ne pensais pas qu’un produit comme Glowless puisse vraiment convenir aux hommes, mais je me trompais ! La texture est légère, ça matifie sans coller, et le mini miroir est hyper pratique. Même nous, les hommes, on peut l’utiliser facilement au quotidien.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QyNrwj",
+        "item_cx4K3Y",
+        "item_XDJUU9"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "#feebf1",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
     "before_after_image_q4y8KM": {
       "type": "before-after-image",
       "disabled": true,
@@ -280,121 +342,6 @@
         "margin_bottom": 0,
         "padding_top": 60,
         "padding_bottom": 0,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "ss_testimonial_10_arDBwC": {
-      "type": "ss-testimonial-10",
-      "blocks": {
-        "testimonial_dMgw9D": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p><em>\"Je n’y croyais pas, mais après une nuit, mes rides sous les yeux avaient quasiment disparu ! Plus besoin de maquillage pour les cacher.\"</em></p>",
-            "author": "– Claire, 46 ans."
-          }
-        },
-        "testimonial_4QXUdy": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p><em>\"Un effet botox sans la douleur et sans l’aiguille, j’adore !\"</em> </p>",
-            "author": "– Laura, 56 ans."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_dMgw9D",
-        "testimonial_4QXUdy"
-      ],
-      "settings": {
-        "body_padding_vertical": 50,
-        "body_padding_vertical_mobile": 16,
-        "body_padding_horizontal": 50,
-        "body_padding_horizontal_mobile": 16,
-        "body_radius": 12,
-        "body_border_thickness": 0,
-        "heading": "",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 40,
-        "heading_size_mobile": 24,
-        "heading_height": 150,
-        "heading_align": "left",
-        "heading_align_mobile": "left",
-        "sub_heading": "",
-        "sub_heading_custom": false,
-        "sub_heading_font": "josefin_sans_n4",
-        "sub_heading_size": 18,
-        "sub_heading_size_mobile": 14,
-        "sub_heading_height": 150,
-        "slider_view": 3.7,
-        "slider_view_mobile": 1,
-        "slider_gap": 36,
-        "slider_gap_mobile": 20,
-        "slider_mt": 20,
-        "image_radius": 12,
-        "image_border_thickness": 0,
-        "image_ratio": "original",
-        "image_ratio_mobile": "original",
-        "stars_size": 20,
-        "stars_mt": 24,
-        "stars_align": "start",
-        "stars_align_mobile": "start",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 20,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_mt": 12,
-        "text_align": "left",
-        "text_align_mobile": "left",
-        "author_custom": false,
-        "author_font": "josefin_sans_n4",
-        "author_size": 20,
-        "author_size_mobile": 16,
-        "author_height": 130,
-        "author_mt": 8,
-        "author_align": "left",
-        "author_align_mobile": "left",
-        "arrow_size": 50,
-        "arrow_size_mobile": 42,
-        "arrow_icon_size": 40,
-        "arrow_icon_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "dots_size": 12,
-        "dots_size_mobile": 12,
-        "dots_mt": 32,
-        "dots_show_desktop": false,
-        "dots_show_mobile": true,
-        "body_bg_color": "#ffffff",
-        "body_border_color": "#000000",
-        "stars_color": "#61caa5",
-        "text_color": "#000000",
-        "author_color": "#000000",
-        "arrow_color": "#756e67",
-        "arrow_hover_color": "#ffffff",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#756e67",
-        "arrow_border_color": "#756e67",
-        "arrow_border_hover_color": "#756e67",
-        "dots_color": "#756e67",
-        "heading_color": "#756e67",
-        "sub_heading_color": "#756e67",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 0,
         "full_width": true,
@@ -1111,9 +1058,9 @@
     "logo_list_7RAtbB",
     "impact_text_b4Uc7c",
     "image_with_text_overlay_LF3m8r",
+    "multi_column_b6XNjd",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
-    "ss_testimonial_10_arDBwC",
     "image_with_text_overlay_VD8jzk",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
