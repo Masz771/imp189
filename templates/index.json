@@ -91,7 +91,7 @@
           "settings": {
             "title": "",
             "subheading": "",
-            "content": "<h3>Pourquoi choisir la Poudre Matifiante Glowless ?<strong><br/></strong></h3>",
+            "content": "<h3>Pourquoi choisir la Poudre Matifiante GlowLess ?<strong><br/></strong></h3>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -161,7 +161,7 @@
         "heading": "Des résultats que vous verrez de vos propres yeux.",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
-        "heading_size": 40,
+        "heading_size": 36,
         "heading_size_mobile": 24,
         "heading_height": 130,
         "heading_align": "center",
@@ -995,78 +995,78 @@
         "item_Kbk7pV": {
           "type": "item",
           "settings": {
-            "title": "1. Comment appliqué la poudre mate à la lavande ?",
-            "content": "<p>Comme excellente poudre fixatrice : Passez légèrement la houppette fournie sur la poudre, puis tapotez sur votre visage après avoir appliqué le fond de teint pour un fini mat et lisse.</p><p>Avant l’apprêt : Appliquez la poudre mate à la lavande avant le fond de teint pour contrôler le sébum et créer un maquillage homogène et impeccable.</p><p>Pour les retouches : Utilisez-le seul pour réduire l’excès de brillance. Tapotez doucement la poudre mate de lavande sur votre visage qui est huileux, comme la zone T. Cela offre une finition mate immédiate car il aide également à réduire la taille des pores et à prévenir la production de nouveau sébum.</p>"
+            "title": "1. Qu’est-ce que Glowless ?",
+            "content": "<p>Glowless est un soin matifiant pour le visage à base d’extraits de lavande, conçu pour contrôler l’excès de sébum et offrir un fini mat naturel tout au long de la journée.</p>"
           }
         },
         "item_AdXeRP": {
           "type": "item",
           "settings": {
-            "title": "2. Est-ce que ça fonctionne vraiment ?",
-            "content": "<p>✅ <strong>OUI ! Et les résultats sont cliniquement prouvés.</strong><br/><br/>📊 <strong>Statistiques testées en laboratoire :</strong></p><p>🔬 <strong>73% de réduction des rides après 4 semaines d’utilisation régulière.</strong></p><p>🔬 <strong>94% des utilisatrices constatent une peau plus lisse et rebondie dès la première semaine.</strong></p><p>🔬 <strong>86% déclarent préférer cette solution aux crèmes anti-rides et aux injections.</strong></p><p>💬 <strong>Témoignages clients :</strong><br/><br/><em>\"Je n’y croyais pas, mais après une seule application, mes ridules sous les yeux ont quasiment disparu !\"</em> – Sophie, 42 ans.<br/><br/><em>\"Je pensais que c’était du marketing… jusqu’à ce que je voie la différence après une nuit d’utilisation. Bluffant !\"</em> – Claire, 46 ans.</p><p>🎯 <strong>Essayez-le sans risque et jugez par vous-même !</strong></p><h3></h3>"
+            "title": "2. Comment appliqué la poudre mate à la lavande ?",
+            "content": "<p>Comme excellente poudre fixatrice : Passez légèrement la houppette fournie sur la poudre, puis tapotez sur votre visage après avoir appliqué le fond de teint pour un fini mat et lisse.</p><p>Avant l’apprêt : Appliquez la poudre mate à la lavande avant le fond de teint pour contrôler le sébum et créer un maquillage homogène et impeccable.</p><p>Pour les retouches : Utilisez-le seul pour réduire l’excès de brillance. Tapotez doucement la poudre mate de lavande sur votre visage qui est huileux, comme la zone T. Cela offre une finition mate immédiate car il aide également à réduire la taille des pores et à prévenir la production de nouveau sébum.</p>"
           }
         },
         "item_J4DdRT": {
           "type": "item",
           "settings": {
-            "title": "3. À quelle fréquence dois-je utiliser les patchs ?",
-            "content": "<p>💆‍♀️ <strong>Nous recommandons d’utiliser les patchs 2 à 3 fois par semaine pour des résultats optimaux.</strong><br/><br/>👉 <strong>Pour un effet anti-rides intensif, vous pouvez les utiliser quotidiennement.</strong></p><p>📢 <strong>Petit conseil : Utilisez-les avant une occasion spéciale pour un effet liftant immédiat !</strong></p>"
+            "title": "3. À quel type de peau Glowless convient-il ?",
+            "content": "<p>Glowless convient particulièrement aux peaux mixtes à grasses, mais il peut également être utilisé sur les peaux normales qui souhaitent réduire la brillance.</p>"
           }
         },
         "item_nNeQfJ": {
           "type": "item",
           "settings": {
-            "title": "4. Est-ce que ça fonctionne sur les rides profondes ?",
-            "content": "<p>✅ <strong>OUI ! Nos patchs sont conçus pour lisser aussi bien les ridules que les rides plus marquées.</strong><br/><br/>💡 Grâce aux <strong>Peptides et à l’Acide Hyaluronique</strong>, ils stimulent la production naturelle de collagène pour un <strong>effet raffermissant à long terme</strong>.</p><p>📢 <strong>Plus vous les utilisez, plus votre peau retrouve sa fermeté et son élasticité naturelle.</strong></p><h3></h3>"
+            "title": "4. Comment utiliser notre poudre Glowless ?",
+            "content": "<p>Appliquez une petite quantité sur une peau propre et sèche, en insistant sur la zone T (front, nez, menton). Utilisez matin et soir pour un effet optimal.</p>"
           }
         },
         "item_gwQqMg": {
           "type": "item",
           "settings": {
-            "title": "5. Est-ce adapté aux peaux sensibles ?",
-            "content": "<p>🧴 <strong>OUI ! Nos patchs sont 100% hypoallergéniques et testés dermatologiquement.</strong><br/><br/>✅ <strong>Sans parabènes, sans silicone, sans parfum irritant.</strong><br/><br/>✅ <strong>Convient même aux peaux ultra-sensibles.</strong></p><p>💡 <strong>Si vous avez des allergies cutanées spécifiques, faites un test sur une petite zone avant application.</strong></p><h3></h3>"
+            "title": "5. Glowless hydrate-t-il la peau ?",
+            "content": "<p>Oui, grâce à ses ingrédients naturels, Glowless régule le sébum tout en maintenant l’hydratation de la peau, sans laisser de film gras.</p>"
           }
         },
         "item_biH7Vq": {
           "type": "item",
           "settings": {
-            "title": "6. Puis-je utiliser ces patchs avec mes autres soins ?",
-            "content": "<p>🧴 <strong>OUI ! Nos patchs sont compatibles avec toutes vos routines de soins.</strong><br/><br/>👉 <strong>Appliquez vos crèmes et sérums habituels APRÈS avoir retiré le patch pour maximiser les résultats.</strong></p><p>📢 <strong>Astuce : Associez-les avec un sérum hydratant pour prolonger l’effet tenseur.</strong></p>"
+            "title": "6. Puis-je l’utiliser sous le maquillage ?",
+            "content": "<p>Absolument ! Glowless crée une base idéale pour le maquillage, permettant au fond de teint de mieux tenir et de rester mat toute la journée.</p>"
           }
         },
         "item_kaWfdj": {
           "type": "item",
           "settings": {
-            "title": "7. Combien de temps avant de voir des résultats ?",
-            "content": "<p>⏳ <strong>Dès la première application :</strong> Peau plus lisse et hydratée en 2h.<br/><br/>🔬 <strong>Après 2 semaines :</strong> Réduction visible des rides et amélioration du teint.<br/><br/>📊 <strong>Après 1 mois :</strong> Effet tenseur longue durée et peau visiblement rajeunie.</p><p>📢 <strong>Rien à perdre, sauf vos rides !</strong></p><h3></h3>"
+            "title": "7. Quels sont les principaux ingrédients de Glowless ?",
+            "content": "<p>Glowless contient de l’extrait de lavande, connu pour ses propriétés apaisantes et antibactériennes, ainsi que des agents matifiants naturels qui régulent le sébum.</p>"
           }
         },
         "item_ffQnzA": {
           "type": "item",
           "settings": {
-            "title": "8. Combien de temps les effets durent-ils ?",
-            "content": "<p>⏳ <strong>Les effets immédiats (hydratation et lissage) durent jusqu'à 24h.</strong><br/><br/>💎 <strong>Pour un effet durable, utilisez nos patchs régulièrement pendant plusieurs semaines.</strong></p><h3></h3>"
+            "title": "8. Glowless est-il testé dermatologiquement ?",
+            "content": "<p>Oui, Glowless a été testé sous contrôle dermatologique et convient à la plupart des types de peau, y compris les peaux sensibles.</p>"
           }
         },
         "item_xmNdYa": {
           "type": "item",
           "settings": {
-            "title": "9. Y a-t-il des contre-indications ?",
-            "content": "<p>🚫 <strong>Ne pas utiliser sur une peau irritée ou avec une plaie ouverte.</strong><br/><br/>🚫 <strong>Déconseillé aux femmes enceintes (par précaution, comme pour tous les produits à absorption cutanée).</strong></p><p>💡 <strong>Si vous avez des doutes, consultez votre dermatologue.</strong></p><h3></h3>"
+            "title": "9. Combien de temps dure un flacon de Glowless ?",
+            "content": "<p>Avec une utilisation quotidienne matin et soir, un flacon de 50 ml dure environ 2 à 3 mois.</p>"
           }
         },
         "item_NnzRFp": {
           "type": "item",
           "settings": {
-            "title": "10. Puis-je réutiliser les patchs ?",
-            "content": "<p>❌ <strong>Non. Chaque patch est conçu pour une seule utilisation.</strong><br/><br/>👉 <strong>Pourquoi ?</strong> Car les microcristaux se dissolvent après l’application pour libérer les actifs en profondeur.</p><p>📢 <strong>Astuce : Utilisez un patch neuf à chaque application pour garantir des résultats optimaux !</strong></p><h3></h3>"
+            "title": "10. Y a-t-il des effets secondaires connus ?",
+            "content": "<p>Glowless est formulé pour minimiser les risques d’irritation. Cependant, en cas de réaction allergique, cessez l’utilisation et consultez un dermatologue.</p>"
           }
         },
         "item_pEwLNB": {
           "type": "item",
           "settings": {
             "title": "11. Puis-je commander en toute sécurité ?",
-            "content": "<p>✅ 100% Sécurisé – Paiement crypté et protégé.<br/><br/>✅ Satisfait ou Remboursé – Garantie 30 jours.<br/><br/>✅ Livraison OFFERTE sur les packs supérieurs à 2 boîtes.</p><p>📦 Suivi en temps réel : Vous recevrez un e-mail ou un SMS avec votre numéro de suivi dès l’expédition.</p><p>📢 Commandez en toute confiance et profitez d’une peau plus jeune dès maintenant !</p>"
+            "content": "<p>100% Sécurisé – Paiement crypté et protégé.<br/><br/>Satisfait ou Remboursé – Garantie 30 jours.<br/><br/>Livraison OFFERTE sur les packs supérieurs à 2 boîtes.</p><p>Suivi en temps réel : Vous recevrez un e-mail ou un SMS avec votre numéro de suivi dès l’expédition.</p><p>Commandez en toute confiance et profitez d’une peau plus jeune dès maintenant !</p>"
           }
         }
       },
