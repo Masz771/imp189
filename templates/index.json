@@ -289,6 +289,65 @@
         "lazy": true
       }
     },
+    "multi_column_TCk7H9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Up8qdr": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NJJzPg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8bPDgU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Up8qdr",
+        "item_NJJzPg",
+        "item_8bPDgU"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_VD8jzk": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -302,96 +361,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "multi_column_b6XNjd": {
-      "type": "multi-column",
-      "blocks": {
-        "item_QyNrwj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-14_184749.png",
-            "column_size": "4",
-            "title": "Anaïs M.",
-            "heading_tag": "h4",
-            "content": "<p>\"J’adore Glowless ! Ma peau brille beaucoup moins dans la journée et l’odeur de lavande est super agréable. Je le recommande à tous ceux qui veulent un fini mat naturel sans assécher la peau.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cx4K3Y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1692809726__3f742c293e664215a83dac1d1a05790etplv-o3s__original.avif",
-            "column_size": "4",
-            "title": "Elena I.",
-            "heading_tag": "h4",
-            "content": "<p>J’apprécievraiment le format compact avec le mini miroir, parfait pour l’avoir toujours avec moi. La texture est agréable et matifie ma peau sans la dessécher. Je suis conquise !\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XDJUU9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1720301689__img_3842__original.avif",
-            "column_size": "4",
-            "title": "John H.",
-            "heading_tag": "h4",
-            "content": "<p>\"Je ne pensais pas qu’un produit comme Glowless puisse vraiment convenir aux hommes, mais je me trompais ! La texture est légère, ça matifie sans coller, et le mini miroir est hyper pratique. Même nous, les hommes, on peut l’utiliser facilement au quotidien.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nqGByq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1720301689__img_3842__original.avif",
-            "column_size": "4",
-            "title": "John H.",
-            "heading_tag": "h4",
-            "content": "<p>\"Je ne pensais pas qu’un produit comme Glowless puisse vraiment convenir aux hommes, mais je me trompais ! La texture est légère, ça matifie sans coller, et le mini miroir est hyper pratique. Même nous, les hommes, on peut l’utiliser facilement au quotidien.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_A8UW9Q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1720301689__img_3842__original.avif",
-            "column_size": "4",
-            "title": "John H.",
-            "heading_tag": "h4",
-            "content": "<p>\"Je ne pensais pas qu’un produit comme Glowless puisse vraiment convenir aux hommes, mais je me trompais ! La texture est légère, ça matifie sans coller, et le mini miroir est hyper pratique. Même nous, les hommes, on peut l’utiliser facilement au quotidien.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_QyNrwj",
-        "item_cx4K3Y",
-        "item_XDJUU9",
-        "item_nqGByq",
-        "item_A8UW9Q"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
       }
     },
     "ss_comparison_table_6_yAEc4E": {
@@ -1044,8 +1013,8 @@
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
+    "multi_column_TCk7H9",
     "image_with_text_overlay_VD8jzk",
-    "multi_column_b6XNjd",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
     "image_with_text_overlay_84beLF",
