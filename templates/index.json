@@ -295,10 +295,11 @@
         "item_Up8qdr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVANT_APRES_GLOWLESS.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« J’étais sceptique au début, mais Glowless a complètement changé ma routine. J’ai toujours eu la peau qui brillait rapidement dans la journée, surtout au niveau du front et du nez. Depuis que j’utilise la poudre, ma peau reste mate et uniforme pendant des heures, sans effet masque.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
