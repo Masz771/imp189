@@ -781,120 +781,16 @@
         "text_color": ""
       }
     },
-    "ss_before_after_image_4_bTJVXJ": {
-      "type": "ss-before-after-image-4",
-      "blocks": {
-        "slide_jUJGTr": {
-          "type": "slide",
-          "settings": {
-            "heading": "<p><strong>une Peau Lisse en 2H</strong></p>",
-            "stars_count": 5,
-            "text": "<p>J'étais sceptique… Mais après 2h, mes ridules avaient presque disparu ! Plus besoin de fond de teint pour camoufler mes cernes. <strong>– Claire, 46 ans.</strong></p>"
-          }
-        },
-        "slide_aA4aFz": {
-          "type": "slide",
-          "settings": {
-            "heading": "<h3><strong>Sans Aiguille, Sans Douleur !</strong></h3>",
-            "stars_count": 5,
-            "text": "<p><em>Ce patch est une révolution ! Plus efficace qu’une crème anti-rides, et sans douleur !\"</em> <strong>– Laura, 39 ans.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_jUJGTr",
-        "slide_aA4aFz"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 48,
-        "heading_size_mobile": 32,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "body_gap": 100,
-        "body_gap_mobile": 40,
-        "body_mt": 0,
-        "body_mt_mobile": 0,
-        "image_padding": 0,
-        "image_padding_mobile": 0,
-        "image_ratio": "portrait",
-        "image_ratio_mobile": "portrait",
-        "image_radius": 20,
-        "image_border_thickness": 0,
-        "image_shadow": true,
-        "text_from": "Avant",
-        "text_to": "Après",
-        "before_after_text_custom": false,
-        "before_after_text_font": "josefin_sans_n4",
-        "before_after_text_size": 25,
-        "before_after_text_size_mobile": 18,
-        "before_after_text_height": 130,
-        "slide_heading_custom": false,
-        "slide_heading_font": "josefin_sans_n4",
-        "slide_heading_size": 42,
-        "slide_heading_size_mobile": 28,
-        "slide_heading_height": 130,
-        "slide_heading_align": "left",
-        "slide_heading_align_mobile": "left",
-        "stars_size": 30,
-        "stars_mt": 20,
-        "stars_align": "start",
-        "stars_align_mobile": "start",
-        "slide_text_custom": false,
-        "slide_text_font": "josefin_sans_n4",
-        "slide_text_size": 18,
-        "slide_text_size_mobile": 16,
-        "slide_text_height": 150,
-        "slide_text_mt": 22,
-        "slide_text_align": "left",
-        "slide_text_align_mobile": "left",
-        "navigation_position_mobile": "top",
-        "navigation_mt": 30,
-        "navigation_mt_mobile": 20,
-        "navigation_gap": 10,
-        "navigation_align": "start",
-        "navigation_align_mobile": "center",
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "pagination_custom": false,
-        "pagination_font": "josefin_sans_n4",
-        "pagination_size": 14,
-        "pagination_size_mobile": 14,
-        "pagination_height": 130,
-        "image_bg_color": "#ffffff",
-        "image_border_color": "#000000",
-        "before_text_color": "#121212",
-        "after_text_color": "#85ccf5",
-        "slide_heading_color": "#121212",
-        "stars_color": "#61caa5",
-        "slide_text_color": "#121212",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "pagination_color": "#000000",
-        "heading_color": "#121212",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "faq_dLcrRD": {
       "type": "faq",
       "blocks": {
+        "item_kyqyQn": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Suite au grand succès de notre produit les délais de livraison sont les suivant:<br/>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 14 jours ouvrés<br/><br/></p>"
+          }
+        },
         "item_Kbk7pV": {
           "type": "item",
           "settings": {
@@ -961,19 +857,20 @@
         "item_NnzRFp": {
           "type": "item",
           "settings": {
-            "title": "10. Y a-t-il des effets secondaires connus ?",
-            "content": "<p>Glowless est formulé pour minimiser les risques d’irritation. Cependant, en cas de réaction allergique, cessez l’utilisation et consultez un dermatologue.</p>"
+            "title": "Ce produit est-il renouvelé et expédié chaque mois ?",
+            "content": "<p><strong>Non</strong>, la poudre matifiante Glowless ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.<br/><br/></p>"
           }
         },
         "item_pEwLNB": {
           "type": "item",
           "settings": {
             "title": "11. Puis-je commander en toute sécurité ?",
-            "content": "<p>100% Sécurisé – Paiement crypté et protégé.<br/><br/>Satisfait ou Remboursé – Garantie 30 jours.<br/><br/>Livraison OFFERTE sur les packs supérieurs à 2 boîtes.</p><p>Suivi en temps réel : Vous recevrez un e-mail ou un SMS avec votre numéro de suivi dès l’expédition.</p><p>Commandez en toute confiance et profitez d’une peau plus jeune dès maintenant !</p>"
+            "content": "<p>100% Sécurisé – Paiement crypté et protégé.<br/><br/>Satisfait ou Remboursé – Garantie 30 jours.<br/></p><p>Suivi en temps réel : Vous recevrez un e-mail ou un SMS avec votre numéro de suivi dès l’expédition.</p><p>Commandez en toute confiance et profitez d’une peau plus jeune dès maintenant !</p>"
           }
         }
       },
       "block_order": [
+        "item_kyqyQn",
         "item_Kbk7pV",
         "item_AdXeRP",
         "item_J4DdRT",
@@ -1022,7 +919,6 @@
     "featured_product_7ECepx",
     "image_with_text_overlay_84beLF",
     "custom_liquid_NAJACE",
-    "ss_before_after_image_4_bTJVXJ",
     "faq_dLcrRD"
   ]
 }
