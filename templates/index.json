@@ -807,6 +807,65 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_gbA79Y": {
+      "type": "multi-column",
+      "blocks": {
+        "item_jXBVPX": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nKVJT6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3giRcB": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_jXBVPX",
+        "item_nKVJT6",
+        "item_3giRcB"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h3><strong>Ingrédients testés cliniquement</strong></h3>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175561560412ef5e2a": {
       "type": "apps",
       "blocks": {
@@ -996,6 +1055,7 @@
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
     "tabs_GN4P73",
+    "multi_column_gbA79Y",
     "175561560412ef5e2a",
     "image_with_text_overlay_84beLF",
     "custom_liquid_NAJACE",
