@@ -741,6 +741,72 @@
         "input_text_color": ""
       }
     },
+    "tabs_GN4P73": {
+      "type": "tabs",
+      "blocks": {
+        "tab_EfAncB": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu du kit poudre matifiante glowless",
+            "content": "<p><strong>Contenu de chaque kit :</strong></p><p><strong>Kit Simple : </strong>1 poudre matifiante à la lavande + 1 miroir intégré + 1 houppette</p><p></p><p><strong>Kit Glowless : </strong>2 poudre matifiante à la lavande + 2 miroir intégré + 2 houppette</p><p></p><p><strong>Kit Glowless Premium : </strong>3 poudre matifiante à la lavande + 3 miroir intégré + 3 houppette</p><p></p><p></p><p><br/>Chaque kit Glowless est conçu pour un usage pratique et adapté à ton quotidien. La poudre matifiante à la lavande 🌿 offre une couvrance légère et naturelle, idéale pour plusieurs retouches. La houppette, douce et réutilisable, peut être utilisée plusieurs fois à condition d’être nettoyée régulièrement. Cela garantit une application hygiénique, un teint frais et des résultats toujours impeccables.<br/><br/></p><p><strong>UN GUIDE D’UTILISATION  SERA FOURNI DANS L’E-MAIL DE CONFIRMATION DE COMMANDE.</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_kxqpTN": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition poudre matifiante à la lavande GlowLess",
+            "content": "<p><strong>Glowless – Poudre Matifiante à la Lavande</strong></p><p>Notre poudre Glowless est formulée avec des ingrédients soigneusement sélectionnés pour offrir un fini mat naturel, tout en prenant soin de la peau. Sa texture légère contrôle les brillances, unifie le teint et procure une sensation de fraîcheur immédiate.</p><p><strong>Ingrédients clés :</strong></p><p>• <strong>Amidon de maïs (Zea Mays Starch)</strong> : Absorbe l’excès de sébum et laisse la peau douce au toucher.<br/><br/>• <strong>Argile blanche (Kaolin)</strong> : Purifie et matifie naturellement, tout en respectant les peaux sensibles.<br/><br/>• <strong>Extrait de lavande (Lavandula Angustifolia Flower Extract)</strong> : Apaise, calme et apporte une légère senteur relaxante.<br/><br/>• <strong>Mica</strong> : Apporte un effet lissant et un éclat discret sans brillance excessive.<br/><br/>• <strong>Silice (Silica)</strong> : Floute les pores et assure une tenue longue durée.<br/><br/>• <strong>Vitamine E (Tocopherol)</strong> : Antioxydant naturel, protège la peau du stress oxydatif.</p><p>Grâce à cette composition, Glowless offre un teint unifié, mat et soigné, tout en apportant confort et protection à la peau.</p>",
+            "page": ""
+          }
+        },
+        "tab_hCY3Tp": {
+          "type": "tab",
+          "settings": {
+            "title": "Est-ce sans danger ?",
+            "content": "<p>Notre poudre Glowless est 100 % sûre et douce pour la peau. Sa texture ultrafine, aussi légère qu’un voile de soie, se dépose délicatement sur le visage sans obstruer les pores ni provoquer d’irritations. Convient à tous les types de peaux, même les plus sensibles.</p><p>Formulée sans ingrédients controversés, elle respecte les normes de qualité les plus strictes et garantit un usage quotidien sans risque d’effets indésirables.</p><p><strong>Engagements qualité :</strong><br/><br/>✔ Sans parfum artificiel<br/><br/>✔ Sans parabènes<br/><br/>✔ Sans sulfates<br/><br/>✔ Non comédogène (n’obstrue pas les pores)<br/><br/>✔ Non testé sur les animaux 🐰<br/><br/>✔ Vegan friendly 🌿</p>",
+            "page": ""
+          }
+        },
+        "tab_BXtc6G": {
+          "type": "tab",
+          "settings": {
+            "title": "90 jours satisfait ou remboursé",
+            "content": "<p>Essayer le kit GlowLess sans risque <strong>pendant 90 jours</strong>.</p><p> Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_bwVFPE": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@glowless.fr<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_EfAncB",
+        "tab_kxqpTN",
+        "tab_hCY3Tp",
+        "tab_BXtc6G",
+        "tab_bwVFPE"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "175561560412ef5e2a": {
       "type": "apps",
       "blocks": {
@@ -929,6 +995,7 @@
     "image_with_text_overlay_VD8jzk",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
+    "tabs_GN4P73",
     "175561560412ef5e2a",
     "image_with_text_overlay_84beLF",
     "custom_liquid_NAJACE",
