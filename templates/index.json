@@ -1055,8 +1055,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ's",
-        "content": "<p>GlowLess Poudre Mate à la Lavande</p>",
+        "title": "FAQ",
+        "content": "<h2><br/><br/></h2>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
