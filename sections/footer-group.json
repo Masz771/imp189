@@ -17,14 +17,14 @@
         "item_QGqcgq": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison gratuite à partir de 50€",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>Satisfait ou remboursé</strong></p>"
           }
         },
         "item_Ky7YKA": {
