@@ -993,7 +993,7 @@
           "type": "item",
           "settings": {
             "title": "Comment appliqué la poudre mate à la lavande ?",
-            "content": "<p>Comme excellente poudre fixatrice : Passez légèrement la houppette fournie sur la poudre, puis tapotez sur votre visage après avoir appliqué le fond de teint pour un fini mat et lisse.</p><p>Avant l’apprêt : Appliquez la poudre mate à la lavande avant le fond de teint pour contrôler le sébum et créer un maquillage homogène et impeccable.</p><p>Pour les retouches : Utilisez-le seul pour réduire l’excès de brillance. Tapotez doucement la poudre mate de lavande sur votre visage qui est huileux, comme la zone T. Cela offre une finition mate immédiate car il aide également à réduire la taille des pores et à prévenir la production de nouveau sébum.</p>"
+            "content": "<p><strong>Comme poudre fixatrice :</strong><br/><br/>Passez légèrement la houppette fournie sur la poudre, puis tapotez sur votre visage après avoir appliqué le fond de teint pour un fini mat et lisse.</p><p><strong>Avant le fond de teint :</strong><br/><br/>Appliquez la poudre mate à la lavande avant le fond de teint pour contrôler le sébum et créer un maquillage homogène et impeccable.</p><p><strong>Pour les retouches : </strong><br/><br/>Utilisez-la seule pour réduire l’excès de brillance. Tapotez doucement la poudre mate à la lavande sur les zones grasses de votre visage (comme la zone T). Elle offre une finition mate immédiate, aide à réduire l’apparence des pores et limite la production de sébum.</p>"
           }
         },
         "item_J4DdRT": {
@@ -1038,13 +1038,6 @@
             "content": "<p>Oui, Glowless a été testé sous contrôle dermatologique et convient à la plupart des types de peau, y compris les peaux sensibles.</p>"
           }
         },
-        "item_xmNdYa": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps dure un flacon de Glowless ?",
-            "content": "<p>Avec une utilisation quotidienne matin et soir, un flacon de 50 ml dure environ 2 à 3 mois.</p>"
-          }
-        },
         "item_NnzRFp": {
           "type": "item",
           "settings": {
@@ -1070,7 +1063,6 @@
         "item_biH7Vq",
         "item_kaWfdj",
         "item_ffQnzA",
-        "item_xmNdYa",
         "item_NnzRFp",
         "item_pEwLNB"
       ],
