@@ -865,10 +865,11 @@
         "item_jCDJDb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_11.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h4>Squalane</h4><p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
