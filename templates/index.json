@@ -897,6 +897,29 @@
         "text_color": ""
       }
     },
+    "rich_text_KMWbtn": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_EFeyay": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2><strong>Pourquoi choisir Glowless?</strong></h2>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_EFeyay"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175561560412ef5e2a": {
       "type": "apps",
       "blocks": {
@@ -1087,6 +1110,7 @@
     "featured_product_7ECepx",
     "tabs_GN4P73",
     "multi_column_gbA79Y",
+    "rich_text_KMWbtn",
     "175561560412ef5e2a",
     "image_with_text_overlay_84beLF",
     "custom_liquid_NAJACE",
