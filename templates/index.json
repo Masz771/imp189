@@ -817,7 +817,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h4><strong>Extrait de Centella Asiatica</strong></h4><p>Hydrate en profondeur, apaise les irritations et stimule la production de collagène pour une peau plus ferme et régénérée.<br/><br/></p>",
+            "content": "<h4><strong>Centella Asiatica</strong></h4><p>Hydrate en profondeur, apaise les irritations et stimule la production de collagène pour une peau plus ferme et régénérée.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -830,7 +830,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h4><strong>Extrait de Lavande</strong></h4><p>Régule la production de sébum, purifie la peau et aide à maintenir un niveau d’hydratation optimal. Son action apaisante réduit les irritations et favorise une peau douce et équilibrée.<br/><br/><br/><br/></p>",
+            "content": "<h4><strong>Lavande</strong></h4><p>Régule la production de sébum, purifie la peau et aide à maintenir un niveau d’hydratation optimal. Son action apaisante réduit les irritations et favorise une peau douce et équilibrée.<br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -839,10 +839,11 @@
         "item_3giRcB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_7.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h4><strong>Opuntia Ficus-Indica</strong></h4><p>Riche en antioxydants et en minéraux, il aide à protéger la peau contre les agressions extérieures, favorise la cicatrisation et apaise les irritations. Contribue à maintenir une hydratation durable et renforce la barrière cutanée.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
