@@ -176,148 +176,6 @@
         "show_shop_pay": false
       }
     },
-    "logo_list_WKiakj": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_MEb78y": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_cGX6Lf": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_9DeXPg": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_TGfPGH": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_MEb78y",
-        "logo_cGX6Lf",
-        "logo_9DeXPg",
-        "logo_TGfPGH"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Featured on",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "press_WGp7QW": {
-      "type": "press",
-      "blocks": {
-        "quote_jgr4eq": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Scientifically designed for those who refuse to let discomfort hold them back, Kindfoot empowers every step with comfort and support for life’s most meaningful moments.",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_jgr4eq"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "images_with_text_scrolling_yUqDYz": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_tXyPhX": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "COMFORT",
-            "content": "<p>Orthopedic Comfort Designed by Experts — Feel the difference with each step.</p>"
-          }
-        },
-        "item_PtwJi8": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "DURABILITY",
-            "content": "<p>Built to Last — Durable materials that support you, day after day</p>"
-          }
-        },
-        "item_erjJwC": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "STABILITY",
-            "content": "<p>Stay Steady on Every Path—Advanced traction and stability for worry-free movement.</p>"
-          }
-        },
-        "item_WEpPbn": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "QUALITY",
-            "content": "<p>Keep your feet healthy and stylish at any age</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_tXyPhX",
-        "item_PtwJi8",
-        "item_erjJwC",
-        "item_WEpPbn"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "17311443447f1d21d8": {
       "type": "apps",
       "settings": {
@@ -329,26 +187,29 @@
         "text_color": ""
       }
     },
-    "ss_wave_2_nBpHJi": {
-      "type": "ss-wave-2",
+    "17557906652db95c87": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_VtUPKE": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "{{product}}",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_VtUPKE"
+      ],
       "settings": {
-        "wave_height": 120,
-        "wave_height_mobile": 80,
-        "wave_animation": true,
-        "wave_rotate": false,
-        "wave_color": "#9d2b32",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
         "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "175574062955c90605": {
@@ -378,11 +239,8 @@
   "order": [
     "main",
     "sp_payment_icons_AzfVwT",
-    "logo_list_WKiakj",
-    "press_WGp7QW",
-    "images_with_text_scrolling_yUqDYz",
     "17311443447f1d21d8",
-    "ss_wave_2_nBpHJi",
+    "17557906652db95c87",
     "175574062955c90605"
   ]
 }
