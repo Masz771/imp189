@@ -17,21 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🩷 +25.000 Femmes conquises",
+            "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         },
         "message_PFG7LT": {
           "type": "message",
           "settings": {
-            "text": "✨ Livraison gratuite pour les commandes de plus de 50€.",
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         },
         "message_qXa9AB": {
           "type": "message",
           "settings": {
-            "text": "-50% OFFRE Vacances d'été",
+            "text": "OFFRE LIMITÉE VACANCES D'ÉTÉ -25%",
+            "url": ""
+          }
+        },
+        "message_qR3Fqi": {
+          "type": "message",
+          "settings": {
+            "text": "STOCKS BIENTÔT ÉPUISÉS",
             "url": ""
           }
         }
@@ -39,7 +46,8 @@
       "block_order": [
         "message",
         "message_PFG7LT",
-        "message_qXa9AB"
+        "message_qXa9AB",
+        "message_qR3Fqi"
       ],
       "settings": {
         "enable_sticky": true,
