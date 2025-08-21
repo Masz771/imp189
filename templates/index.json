@@ -813,10 +813,11 @@
         "item_jXBVPX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_5.jpg",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h4><strong>Extrait de Centella Asiatica</strong></h4><p>Hydrate en profondeur, apaise les irritations et stimule la production de collagène pour une peau plus ferme et régénérée.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -825,10 +826,11 @@
         "item_nKVJT6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_6.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h4><strong>Extrait de Lavande</strong></h4><p>Régule la production de sébum, purifie la peau et aide à maintenir un niveau d’hydratation optimal. Son action apaisante réduit les irritations et favorise une peau douce et équilibrée.<br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
