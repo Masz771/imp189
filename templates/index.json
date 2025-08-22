@@ -308,7 +308,7 @@
         "item_NJJzPg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_2.jpg",
+            "image": "shopify://shop_images/AVANT_APRES_HOMME_1.jpg",
             "column_size": "3",
             "title": "Camille",
             "heading_tag": "h4",
@@ -321,7 +321,7 @@
         "item_8bPDgU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_3.jpg",
+            "image": "shopify://shop_images/AVANT_APRES_HOMME_3.jpg",
             "column_size": "3",
             "title": "Kim",
             "heading_tag": "h4",
