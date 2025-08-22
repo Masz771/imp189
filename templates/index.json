@@ -295,7 +295,7 @@
         "item_Up8qdr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_HOMME_4.jpg",
+            "image": "shopify://shop_images/AVANT_APRES_HOMME_5.jpg",
             "column_size": "3",
             "title": "Alexandre",
             "heading_tag": "h4",
@@ -308,7 +308,7 @@
         "item_NJJzPg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_HOMME_1.jpg",
+            "image": "shopify://shop_images/AVANT_APRES_HOMME_6.jpg",
             "column_size": "3",
             "title": "Camille",
             "heading_tag": "h4",
@@ -321,7 +321,7 @@
         "item_8bPDgU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_HOMME_3.jpg",
+            "image": "shopify://shop_images/AVANT_APRES_HOMME_7.jpg",
             "column_size": "3",
             "title": "Kim",
             "heading_tag": "h4",
