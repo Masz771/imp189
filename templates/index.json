@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/Bannieres_Glowless.jpg",
-        "mobile_image": "shopify://shop_images/banniere_mobile_homme.jpg",
+        "mobile_image": "shopify://shop_images/banniere_gris.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
