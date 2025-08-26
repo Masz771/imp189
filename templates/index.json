@@ -990,6 +990,13 @@
             "content": "<p>Glowless est un soin matifiant pour le visage à base d’extraits de lavande, conçu pour contrôler l’excès de sébum et offrir un fini mat naturel tout au long de la journée.</p>"
           }
         },
+        "item_Qp9THC": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ce produit convient aussi aux hommes ?",
+            "content": "<p>Oui, absolument ! Notre produit est conçu pour être efficace aussi bien chez les femmes que chez les hommes. Il fonctionne de la même manière pour tous, afin de garantir des résultats optimaux quel que soit le genre.</p>"
+          }
+        },
         "item_AdXeRP": {
           "type": "item",
           "settings": {
@@ -1057,6 +1064,7 @@
       "block_order": [
         "item_kyqyQn",
         "item_Kbk7pV",
+        "item_Qp9THC",
         "item_AdXeRP",
         "item_J4DdRT",
         "item_nNeQfJ",
