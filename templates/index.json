@@ -360,10 +360,11 @@
         "item_tYg9cC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_16.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Thomas",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Le contraste est flagrant : mon visage paraît plus reposé et ma peau plus douce. Avant j’étais gêné par les imperfections, maintenant j’ai un teint bien plus propre.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
