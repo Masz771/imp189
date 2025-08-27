@@ -318,6 +318,19 @@
             "link_style": "link"
           }
         },
+        "item_tYg9cC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_16.jpg",
+            "column_size": "3",
+            "title": "Thomas",
+            "heading_tag": "h4",
+            "content": "<p>\"Le contraste est flagrant : mon visage paraît plus reposé et ma peau plus douce. Avant j’étais gêné par les imperfections, maintenant j’ai un teint bien plus propre.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_8bPDgU": {
           "type": "item",
           "settings": {
@@ -356,28 +369,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_tYg9cC": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Nouveau_projet_16.jpg",
-            "column_size": "3",
-            "title": "Thomas",
-            "heading_tag": "h4",
-            "content": "<p>\"Le contraste est flagrant : mon visage paraît plus reposé et ma peau plus douce. Avant j’étais gêné par les imperfections, maintenant j’ai un teint bien plus propre.\"<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_Up8qdr",
         "item_NJJzPg",
+        "item_tYg9cC",
         "item_8bPDgU",
         "item_PV6xkG",
-        "item_EWmkwH",
-        "item_tYg9cC"
+        "item_EWmkwH"
       ],
       "name": "Multi-column",
       "settings": {
