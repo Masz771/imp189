@@ -310,9 +310,9 @@
           "settings": {
             "image": "shopify://shop_images/Nouveau_projet_12.jpg",
             "column_size": "3",
-            "title": "Camille",
+            "title": "Mathieu",
             "heading_tag": "h4",
-            "content": "<p>\"Glowless a vraiment changé ma peau !<br/>je n’ai plus peur d’apparaître brillante en photo ou en réunion. Je me sens beaucoup plus sereine et à l’aise dans ma peau.\"<br/><br/></p>",
+            "content": "<p>\"Glowless a vraiment changé ma peau !<br/>je n’ai plus peur d’apparaître brillant en photo ou en réunion. Je me sens beaucoup plus serein et à l’aise dans ma peau.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
