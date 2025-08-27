@@ -330,12 +330,53 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_PV6xkG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_14.jpg",
+            "column_size": "3",
+            "title": "Kevin Minh",
+            "heading_tag": "h4",
+            "content": "<p>\"Depuis que j’ai commencé cette routine, ma peau est beaucoup plus nette. Avant, elle brillait trop et je me sentais mal à l’aise sur les photos. Maintenant, elle est mate, lisse et je reçois souvent des compliments sur mon teint. Je recommande vraiment !\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EWmkwH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_15.jpg",
+            "column_size": "3",
+            "title": "Issa",
+            "heading_tag": "h4",
+            "content": "<p>\"Je ne pensais pas voir une telle transformation. Avant, mon teint était terne et marqué par les brillances. Aujourd’hui, j’ai une peau nette et mate, je me sens beaucoup mieux.\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tYg9cC": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_Up8qdr",
         "item_NJJzPg",
-        "item_8bPDgU"
+        "item_8bPDgU",
+        "item_PV6xkG",
+        "item_EWmkwH",
+        "item_tYg9cC"
       ],
       "name": "Multi-column",
       "settings": {
