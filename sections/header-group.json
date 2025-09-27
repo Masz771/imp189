@@ -31,7 +31,7 @@
         "message_qXa9AB": {
           "type": "message",
           "settings": {
-            "text": "OFFRE LIMITÉE VACANCES D'ÉTÉ -25%",
+            "text": "OFFRE LIMITÉE FIN D'ÉTÉ -25%",
             "url": ""
           }
         },
@@ -66,7 +66,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Logo.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 85,
         "menu": "main-menu",
@@ -81,7 +80,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/e1f8d76f-b16a-4b6a-9e75-226b2f047b79.png",
         "reduce_padding": true,
         "background_opacity": 0,
         "background_blur_radius": 0
