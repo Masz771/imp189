@@ -45,6 +45,7 @@
         "logo_eyLtrt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/unnamed.webp",
             "logo_width": 120,
             "link": ""
           }
