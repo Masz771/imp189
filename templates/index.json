@@ -55,7 +55,6 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -91,7 +90,7 @@
           "settings": {
             "title": "",
             "subheading": "",
-            "content": "<h3>Pourquoi choisir le Masseur Cervicale Ergoneck ?<strong><br/></strong></h3>",
+            "content": "<h3>Pourquoi choisir la Poudre Matifiante GlowLess ?<strong><br/></strong></h3>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -286,82 +285,6 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "multi_column_TCk7H9": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Up8qdr": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_2_800x@2x.mp4",
-            "column_size": "4",
-            "title": "Soulagez vos douleurs cervicales et maux de tête avec Ergoneck",
-            "heading_tag": "h5",
-            "content": "<p>Mauvaise posture et stress causent douleurs au cou, épaules et mâchoire. <strong>Ergoneck</strong>, 15 min/jour : massage, étirements et chaleur détendent les muscles, rétablissent la courbure du cou et soulagent la douleur.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_NJJzPg": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/5ab74cf6de6246c8bf4c3cb9c8f25144-ezgif.com-video-to-gif-converter_800x@2x.mp4",
-            "column_size": "4",
-            "title": "Accélérer la guérison grâce à la thermothérapie",
-            "heading_tag": "h5",
-            "content": "<p>La chaleur réglable de <strong>Ergoneck</strong> améliore la circulation sanguine dans le cou, apportant plus d’oxygène et de nutriments aux muscles et aux tissus. Cela aide à réduire l’inflammation, favorise la guérison naturelle et détend les muscles tendus pour un confort durable.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tYg9cC": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_3_800x@2x.mp4",
-            "column_size": "4",
-            "title": "Restaurez la courbure naturelle de votre cou pour soulager la douleur",
-            "heading_tag": "h5",
-            "content": "<p>Les postures modernes créent tensions et contractions qui bloquent la circulation. <strong>Ergoneck</strong> associe traction cervicale et vibrations pour réaligner le cou : étirement à 26° pour décompresser la colonne, vibrations pour détendre les muscles et améliorer la circulation. Résultat : muscles relâchés, position naturelle restaurée, douleurs soulagées.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8bPDgU": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_1_800x@2x.mp4",
-            "column_size": "4",
-            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
-            "heading_tag": "h5",
-            "content": "<p>Le massage d’<strong>Ergoneck</strong> stimule la circulation et libère des endorphines, détend les muscles, améliore la mobilité et soulage les douleurs du cou et des épaules.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Up8qdr",
-        "item_NJJzPg",
-        "item_tYg9cC",
-        "item_8bPDgU"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image_with_text_overlay_VD8jzk": {
@@ -760,16 +683,16 @@
         "tab_EfAncB": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du kit poudre matifiante glowless",
-            "content": "<p><strong>Contenu de chaque kit :</strong></p><p><strong>Kit Simple : </strong>1 poudre matifiante à la lavande + 1 miroir intégré + 1 houppette</p><p></p><p><strong>Kit Glowless : </strong>2 poudre matifiante à la lavande + 2 miroir intégré + 2 houppette</p><p></p><p><strong>Kit Glowless Premium : </strong>3 poudre matifiante à la lavande + 3 miroir intégré + 3 houppette</p><p></p><p></p><p><br/>Chaque kit Glowless est conçu pour un usage pratique et adapté à ton quotidien. La poudre matifiante à la lavande 🌿 offre une couvrance légère et naturelle, idéale pour plusieurs retouches. La houppette, douce et réutilisable, peut être utilisée plusieurs fois à condition d’être nettoyée régulièrement. Cela garantit une application hygiénique, un teint frais et des résultats toujours impeccables.<br/><br/></p><p><strong>UN GUIDE D’UTILISATION  SERA FOURNI DANS L’E-MAIL DE CONFIRMATION DE COMMANDE.</strong></p>",
+            "title": "Contenu du kit complet Ergoneck",
+            "content": "<p><strong>Le kit complet Ergoneck :</strong><br/><br/>Profitez de tout ce dont vous avez besoin pour soulager vos douleurs cervicales :</p><p></p><ul><li><strong>Masseur cervical Ergoneck</strong> avec chaleur et vibrations pour détendre les muscles et réaligner la colonne<br/></li><li><strong>Guide d’utilisation et exercices gratuits</strong> pour maximiser les résultats et retrouver la souplesse du cou<br/></li></ul><p>Simple, sûr et efficace : tout est pensé pour un confort immédiat et un soulagement durable.<br/><br/></p><p><strong>UN GUIDE D’UTILISATION  SERA FOURNI DANS L’E-MAIL DE CONFIRMATION DE COMMANDE.</strong></p>",
             "page": ""
           }
         },
         "tab_kxqpTN": {
           "type": "tab",
           "settings": {
-            "title": "Composition poudre matifiante à la lavande GlowLess",
-            "content": "<p>Notre poudre matifiante Glowless est formulée avec des ingrédients de haute qualité ; enrichie en squalane, extraits de centella asiatica, lavande et figuier de Barbarie, elle aide à réguler la brillance, apaiser la peau et offrir un fini mat, doux et uniforme dès la première application.</p><p><strong>                                                                            Ingrédients clés :</strong></p><p>• <strong>Squalane</strong> : Hydrate en profondeur, restaure la barrière cutanée et protège contre la sécheresse.</p><p>• <strong>Extrait de Centella Asiatica</strong> : Apaise la peau, réduit les rougeurs et stimule la production de collagène.</p><p>• <strong>Extrait de Lavande (Lavandula Angustifolia)</strong> : Régule le sébum, aide à purifier la peau et favorise un teint uniforme.</p><p>• <strong>Extrait de Figue de Barbarie (Opuntia Ficus-Indica Stem Extract)</strong> : Riche en antioxydants, il protège des agressions extérieures et améliore la régénération cellulaire.</p><p>• <strong>Vitamine E (Tocopheryl Acetate)</strong> : Antioxydant puissant, aide à lutter contre le vieillissement prématuré de la peau.</p><p>• <strong>Silice</strong> : Matifie instantanément et absorbe l’excès de sébum pour un fini doux et velouté.</p><p></p><p></p><p><br/>Grâce à cette synergie d’ingrédients naturels et performants, la poudre Glowless aide à matifier, protéger et sublimer la peau tout en la laissant douce, fraîche et éclatante.<br/><br/><br/><br/></p>",
+            "title": "Ergoneck – Masseur cervical de haute qualité",
+            "content": "<p>Le masseur cervical <strong>Ergoneck</strong> est conçu avec des matériaux sûrs et durables pour offrir confort et efficacité. Sa combinaison de chaleur apaisante, de vibrations profondes et de traction douce permet de détendre les muscles, améliorer la circulation et réaligner le cou dès les premières utilisations.</p><p><strong>Caractéristiques clés :</strong></p><p><strong>Matériaux hypoallergéniques et résistants</strong> : doux pour la peau, durables et faciles à nettoyer<br/></p><p><strong>Système de vibrations à haute fréquence</strong> : simule l’effet d’un massage professionnel et soulage les tensions musculaires<br/></p><p><strong>Chaleur réglable</strong> : améliore la circulation sanguine et favorise la relaxation<br/></p><p><strong>Traction cervicale douce</strong> : décompresse la colonne vertébrale et aide à restaurer la courbure naturelle du cou<br/></p><p><strong>Ergonomie optimisée</strong> : épouse parfaitement la forme du cou pour un confort maximal<br/></p><p><strong>Guide et exercices inclus</strong> : pour maximiser les bienfaits et garantir un usage sûr<br/></p><p>Grâce à cette synergie de matériaux de qualité et de technologies performantes, <strong>Ergoneck</strong> soulage les tensions, améliore la mobilité et restaure la position naturelle du cou, vous laissant un confort durable et un bien-être optimal.</p>",
             "page": ""
           }
         },
@@ -777,7 +700,7 @@
           "type": "tab",
           "settings": {
             "title": "Est-ce sans danger ?",
-            "content": "<p>Notre poudre Glowless est 100 % sûre et douce pour la peau. Sa texture ultrafine, aussi légère qu’un voile de soie, se dépose délicatement sur le visage sans obstruer les pores ni provoquer d’irritations. Convient à tous les types de peaux, même les plus sensibles.</p><p>Formulée sans ingrédients controversés, elle respecte les normes de qualité les plus strictes et garantit un usage quotidien sans risque d’effets indésirables.</p><p><strong>Engagements qualité :</strong><br/><br/>✔ Sans parfum artificiel<br/><br/>✔ Sans parabènes<br/><br/>✔ Sans sulfates<br/><br/>✔ Non comédogène (n’obstrue pas les pores)<br/><br/>✔ Non testé sur les animaux 🐰<br/><br/>✔ Vegan friendly 🌿</p>",
+            "content": "<p><strong>Ergoneck est sûr et doux pour votre cou.</strong><br/><br/>Conçu pour un usage domestique, il soulage les tensions sans risque lorsqu’il est utilisé selon le guide (15 minutes par jour). Convient à la plupart des utilisateurs adultes, même ceux ayant une sensibilité cervicale légère.</p><p><strong>Engagements qualité :</strong><br/><br/>✔ Conçu pour un usage sûr à domicile<br/><br/>✔ Matériaux hypoallergéniques et résistants<br/><br/>✔ Facile à nettoyer et à entretenir pour une hygiène optimale<br/><br/>✔ Testé pour un usage domestique sûr<br/><br/>✔ Instructions claires incluses pour éviter tout risque</p>",
             "page": ""
           }
         },
@@ -785,7 +708,7 @@
           "type": "tab",
           "settings": {
             "title": "90 jours satisfait ou remboursé",
-            "content": "<p>Essayer le kit GlowLess sans risque <strong>pendant 90 jours</strong>.</p><p>Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.<br/><br/></p>",
+            "content": "<p>Essayer le masseur Ergoneck sans risque <strong>pendant 90 jours</strong>.</p><p>Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.<br/><br/></p>",
             "page": ""
           }
         },
@@ -934,6 +857,82 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_TCk7H9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Up8qdr": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_2_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Soulagez vos douleurs cervicales et maux de tête avec Ergoneck",
+            "heading_tag": "h5",
+            "content": "<p>Mauvaise posture et stress causent douleurs au cou, épaules et mâchoire. <strong>Ergoneck</strong>, 15 min/jour : massage, étirements et chaleur détendent les muscles, rétablissent la courbure du cou et soulagent la douleur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NJJzPg": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/5ab74cf6de6246c8bf4c3cb9c8f25144-ezgif.com-video-to-gif-converter_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Accélérer la guérison grâce à la thermothérapie",
+            "heading_tag": "h5",
+            "content": "<p>La chaleur réglable de <strong>Ergoneck</strong> améliore la circulation sanguine dans le cou, apportant plus d’oxygène et de nutriments aux muscles et aux tissus. Cela aide à réduire l’inflammation, favorise la guérison naturelle et détend les muscles tendus pour un confort durable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tYg9cC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_3_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Restaurez la courbure naturelle de votre cou pour soulager la douleur",
+            "heading_tag": "h5",
+            "content": "<p>Les postures modernes créent tensions et contractions qui bloquent la circulation. <strong>Ergoneck</strong> associe traction cervicale et vibrations pour réaligner le cou : étirement à 26° pour décompresser la colonne, vibrations pour détendre les muscles et améliorer la circulation. Résultat : muscles relâchés, position naturelle restaurée, douleurs soulagées.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8bPDgU": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_1_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
+            "heading_tag": "h5",
+            "content": "<p>Le massage d’<strong>Ergoneck</strong> stimule la circulation et libère des endorphines, détend les muscles, améliore la mobilité et soulage les douleurs du cou et des épaules.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Up8qdr",
+        "item_NJJzPg",
+        "item_tYg9cC",
+        "item_8bPDgU"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1146,7 +1145,6 @@
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
-    "multi_column_TCk7H9",
     "image_with_text_overlay_VD8jzk",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
@@ -1154,6 +1152,7 @@
     "multi_column_gbA79Y",
     "rich_text_KMWbtn",
     "175561560412ef5e2a",
+    "multi_column_TCk7H9",
     "custom_liquid_NAJACE",
     "faq_dLcrRD",
     "17557877522b5da964",
