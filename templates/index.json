@@ -55,6 +55,7 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Nouveau_projet_3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -90,7 +91,7 @@
           "settings": {
             "title": "",
             "subheading": "",
-            "content": "<h3>Pourquoi choisir la Poudre Matifiante GlowLess ?<strong><br/></strong></h3>",
+            "content": "<h3>Pourquoi choisir le Coussin Masseur Ergoneck ?<strong><br/></strong></h3>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
