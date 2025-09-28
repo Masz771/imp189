@@ -363,6 +363,82 @@
         "text_color": ""
       }
     },
+    "multi_column_KqLHA8": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QC7NzA": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_2_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Soulagez vos douleurs cervicales et maux de tête avec Ergoneck",
+            "heading_tag": "h5",
+            "content": "<p>Mauvaise posture, stress et heures assis provoquent tensions et douleurs dans le cou, les épaules et la mâchoire. </p><p>Avec <strong>Ergoneck</strong>, 15 minutes par jour suffisent : massage, étirements et chaleur stimulent la circulation, détendent les muscles et rétablissent la courbure naturelle du cou. Nerfs libérés, pression réduite, confort retrouvé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9VrDN6": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/5ab74cf6de6246c8bf4c3cb9c8f25144-ezgif.com-video-to-gif-converter_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Accélérer la guérison grâce à la thermothérapie",
+            "heading_tag": "h5",
+            "content": "<p>Grâce à une chaleur apaisante et réglable, Cerfix <em><strong>augmente naturellement la circulation sanguine </strong></em>en dilatant et en élargissant les vaisseaux sanguins dans la région du cou, laissant ainsi plus d'espace pour le passage des fluides.</p><p>L'amélioration de la circulation sanguine permet d'apporter davantage d'oxygène et de nutriments sains aux muscles du cou et à la tête, ce qui accélère les capacités de guérison de votre corps et élimine l'inflammation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LYtqWa": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_3_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Restaurez la courbure naturelle de votre cou pour soulager la douleur",
+            "heading_tag": "h5",
+            "content": "<p>Les postures modernes font avancer la tête, créant tension et contraction musculaires qui bloquent la circulation sanguine.</p><p><strong>Ergoneck</strong> combine traction cervicale et vibrations profondes pour réaligner votre cou. L’étirement à 26° décompresse la colonne, tandis que les vibrations détendent les muscles, améliorent la circulation et apaisent les tensions.</p><p>Résultat : muscles relâchés, position naturelle restaurée, douleurs cervicales soulagées.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zHahTr": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ezgif.com-video-to-gif-converter_1_800x@2x.mp4",
+            "column_size": "4",
+            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
+            "heading_tag": "h5",
+            "content": "<p>Le massage stimule la circulation et libère des endorphines, soulageant naturellement la douleur.<br/><br/>Il détend les muscles, améliore la mobilité et restaure la souplesse du cou.<br/><br/>La pression douce et les mouvements rythmiques favorisent la régénération des nerfs et apaisent les douleurs au cou et aux épaules.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QC7NzA",
+        "item_9VrDN6",
+        "item_LYtqWa",
+        "item_zHahTr"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_VD8jzk": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -1086,7 +1162,7 @@
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
-    "multi_column_TCk7H9",
+    "multi_column_KqLHA8",
     "image_with_text_overlay_VD8jzk",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
@@ -1094,6 +1170,7 @@
     "multi_column_gbA79Y",
     "rich_text_KMWbtn",
     "175561560412ef5e2a",
+    "multi_column_TCk7H9",
     "custom_liquid_NAJACE",
     "faq_dLcrRD",
     "17557877522b5da964"
