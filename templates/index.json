@@ -55,6 +55,7 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Nouveau_projet_3.png",
             "logo_width": 120,
             "link": ""
           }
