@@ -31,15 +31,13 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_1.png",
-            "logo_width": 300,
+            "logo_width": 120,
             "link": ""
           }
         },
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -985,71 +983,64 @@
         "item_Kbk7pV": {
           "type": "item",
           "settings": {
-            "title": "Qu’est-ce que Glowless ?",
-            "content": "<p>Glowless est un soin matifiant pour le visage à base d’extraits de lavande, conçu pour contrôler l’excès de sébum et offrir un fini mat naturel tout au long de la journée.</p>"
+            "title": "Qu’est-ce que le masseur cervical Ergoneck ?",
+            "content": "<p>Le masseur ergoneck est votre allié pour dire adieu aux tensions et aux raideurs de la nuque. Grâce à ses mouvements de massage inspirés des techniques professionnelles, ses vibrations apaisantes et sa chaleur douce, il vous offre un moment de détente unique, à la maison, au bureau ou même en déplacement.</p>"
           }
         },
         "item_Qp9THC": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce produit convient aussi aux hommes ?",
-            "content": "<p>Oui, absolument ! Notre produit est conçu pour être efficace aussi bien chez les femmes que chez les hommes. Il fonctionne de la même manière pour tous, afin de garantir des résultats optimaux quel que soit le genre.</p>"
+            "title": "Qu'elles sont les bienfaits du masseur Ergoneck ?",
+            "content": "<p>Avec Ergoneck, retrouvez une nuque détendue et des épaules libérées de la fatigue. Il aide à réduire le stress, favorise la circulation sanguine et prévient les tensions liées aux longues heures passées devant l’ordinateur ou au volant. Offrez-vous le plaisir d’un massage relaxant à tout moment de la journée.</p>"
           }
         },
         "item_AdXeRP": {
           "type": "item",
           "settings": {
-            "title": "Comment appliqué la poudre mate à la lavande ?",
-            "content": "<p><strong>Comme poudre fixatrice :</strong><br/><br/>Passez légèrement la houppette fournie sur la poudre, puis tapotez sur votre visage après avoir appliqué le fond de teint pour un fini mat et lisse.</p><p><strong>Avant le fond de teint :</strong><br/><br/>Appliquez la poudre mate à la lavande avant le fond de teint pour contrôler le sébum et créer un maquillage homogène et impeccable.</p><p><strong>Pour les retouches : </strong><br/><br/>Utilisez-la seule pour réduire l’excès de brillance. Tapotez doucement la poudre mate à la lavande sur les zones grasses de votre visage (comme la zone T). Elle offre une finition mate immédiate, aide à réduire l’apparence des pores et limite la production de sébum.</p>"
+            "title": "Comment utilisé Ergoneck ?",
+            "content": "<p>Rien de plus simple : placez le masseur autour de votre nuque ou sur la zone à détendre, choisissez le mode qui vous fait plaisir — pétrissage, vibrations ou chaleur — et profitez d’une séance de 10 à 20 minutes. Quelques minutes suffisent pour sentir la différence et libérer la tension accumulée.</p>"
           }
         },
         "item_J4DdRT": {
           "type": "item",
           "settings": {
-            "title": "À quel type de peau Glowless convient-il ?",
-            "content": "<p>Glowless convient particulièrement aux peaux mixtes à grasses, mais il peut également être utilisé sur les peaux normales qui souhaitent réduire la brillance.</p>"
+            "title": "Qui peut utiliser le masseur cervical Ergoneck ?",
+            "content": "<p>Ergoneck est idéal pour tous ceux qui souhaitent soulager les tensions du cou et des épaules, qu’il s’agisse de travailleurs sédentaires, de conducteurs ou de sportifs après l’effort. Pour les enfants, les femmes enceintes ou les personnes avec des pathologies cervicales importantes, il est recommandé de demander l’avis d’un professionnel de santé.</p>"
           }
         },
         "item_nNeQfJ": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps dure l’effet matifiant de Glowless ?",
-            "content": "<p>L’effet matifiant de Glowless dure longtemps ! Une seule application le matin permet de contrôler la brillance tout au long de la journée, sans retouche fréquente. Sa formule légère mais efficace assure un fini mat durable et naturel.</p>"
+            "title": "Quelles sont les caractéristiques techniques ?",
+            "content": "<p>Notre masseur Ergoneck allie performance et confort. Léger, ergonomique et portable, il dispose de plusieurs modes de massage et d’une fonction chaleur apaisante. Sa housse douce et respirante est facile à nettoyer, et sa batterie rechargeable vous permet de l’emporter partout.</p>"
           }
         },
         "item_gwQqMg": {
           "type": "item",
           "settings": {
-            "title": "Glowless hydrate-t-il la peau ?",
-            "content": "<p>Oui, grâce à ses ingrédients naturels, Glowless régule le sébum tout en maintenant l’hydratation de la peau, sans laisser de film gras.</p>"
+            "title": "Combien de temps avant de ressentir les effets ?",
+            "content": "<p>Dès les premières minutes, vous sentez la différence : la nuque se détend, les épaules se relâchent, le stress fond. Avec une utilisation régulière, les effets sur les tensions musculaires deviennent durables et vous retrouvez un bien-être quotidien.</p>"
           }
         },
         "item_biH7Vq": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l’utiliser sous le maquillage ?",
-            "content": "<p>Absolument ! Glowless crée une base idéale pour le maquillage, permettant au fond de teint de mieux tenir et de rester mat toute la journée.</p>"
+            "title": "Le masseur Ergoneck remplace-t-il un massage professionnel ?",
+            "content": "<p>Ergoneck recrée fidèlement les gestes d’un massage professionnel pour un confort quotidien. Il ne remplace pas un suivi médical si nécessaire, mais constitue la solution idéale pour libérer vos tensions et profiter d’un moment de détente à tout moment.</p>"
           }
         },
         "item_kaWfdj": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les principaux ingrédients de Glowless ?",
-            "content": "<p>Glowless contient de l’extrait de lavande, connu pour ses propriétés apaisantes et antibactériennes, ainsi que des agents matifiants naturels qui régulent le sébum.</p>"
+            "title": "Comment Ergoneck soulage-t-il mes tensions ?",
+            "content": "<p>Grâce à ses mouvements de massage, ses vibrations et sa chaleur douce, Ergoneck détend instantanément la nuque et les épaules, pour un bien-être immédiat.</p>"
           }
         },
         "item_ffQnzA": {
           "type": "item",
           "settings": {
-            "title": "Glowless est-il testé dermatologiquement ?",
-            "content": "<p>Oui, Glowless a été testé sous contrôle dermatologique et convient à la plupart des types de peau, y compris les peaux sensibles.</p>"
-          }
-        },
-        "item_NnzRFp": {
-          "type": "item",
-          "settings": {
-            "title": "Ce produit est-il renouvelé et expédié chaque mois ?",
-            "content": "<p><strong>Non</strong>, la poudre matifiante Glowless ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.<br/><br/></p>"
+            "title": "Est-ce qu’il aide vraiment à réduire le stress ?",
+            "content": "<p>Oui ! Les massages, vibrations et chaleur douce détendent la nuque et les épaules, favorisant une sensation immédiate de relaxation et de bien-être.</p>"
           }
         },
         "item_pEwLNB": {
@@ -1071,7 +1062,6 @@
         "item_biH7Vq",
         "item_kaWfdj",
         "item_ffQnzA",
-        "item_NnzRFp",
         "item_pEwLNB"
       ],
       "settings": {
