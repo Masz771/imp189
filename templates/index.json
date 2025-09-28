@@ -31,6 +31,7 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Nouveau_projet_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Nouveau_projet_2.png",
             "logo_width": 120,
             "link": ""
           }
