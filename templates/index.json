@@ -1325,6 +1325,7 @@
         "item_QPMMPU",
         "item_NggCEP"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
