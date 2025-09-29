@@ -836,19 +836,20 @@
         "image_KRiLwp": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ezgif.com-video-to-gif-converter_3_800x_2x_b515e4e6-10aa-4e9c-b76e-7ec1d45d1895.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "",
+            "content": "<p><strong>Restaurez la courbure naturelle de votre cou et soulagez la douleur</strong></p><p>Nos habitudes modernes — rester assis longtemps, utiliser le smartphone, travailler devant un écran — font que notre tête se retrouve souvent projetée vers l’avant, bien plus que ce qui est naturel. Résultat : les muscles du cou se surmènent, se contractent et maintiennent la nuque dans une position anormale en permanence.</p><p>Et ce n’est pas tout : des muscles tendus compriment leur propre apport sanguin. Même si votre corps essaie d’envoyer plus de sang pour réparer la zone, il n’y parvient tout simplement pas.</p><p><strong>Ergoneck</strong> combine <strong>traction cervicale</strong> et <strong>puissante thérapie vibrante profonde</strong> pour réaligner vos vertèbres cervicales.<br/><br/>L’<strong>inclinaison de 26°</strong> décompresse la colonne, tandis que les vibrations imitent les effets d’un exercice physique : elles relâchent les muscles, améliorent la circulation sanguine et dissipent les tensions.</p><p>Vos muscles peuvent enfin se détendre et reprendre leur position naturelle.<br/><br/>La pression sur les vertèbres disparaît, et vous traitez ainsi directement <strong>la cause principale des douleurs cervicales</strong>.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -857,19 +858,42 @@
         "image_8cNfzC": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/c46dfeb8087a4ed0bb3b19ca7c699c22-ezgif.com-video-to-gif-converter.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "",
+            "content": "<p><strong>Bienfaits cliniquement prouvés de la massothérapie</strong></p><p>La <strong>massothérapie</strong> soulage la douleur en stimulant la circulation sanguine et en favorisant la production d’endorphines — les antidouleurs naturels du corps.</p><p>Elle contribue également à <strong>renforcer les muscles</strong> et à <strong>améliorer la mobilité</strong>. En relâchant les tensions et en favorisant la relaxation, elle permet de bouger plus librement et de retrouver la flexibilité naturelle de la nuque.</p><p>Le massage <strong>active aussi les nerfs</strong> grâce à une pression douce et à des mouvements rythmiques, ce qui aide à la régénération et à la récupération, tout en combattant activement les inconforts dans le cou et les épaules.</p><p>✅ <strong>87 % des utilisateurs ont constaté une diminution des douleurs liées à l’ATM (trouble temporo-mandibulaire) et des maux de tête de tension après 7 jours d’utilisation régulière (15 à 20 min par jour).</strong></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_6pXXHw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5ab74cf6de6246c8bf4c3cb9c8f25144-ezgif.com-video-to-gif-converter.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>Accélérez la récupération grâce à la thérapie par la chaleur</strong></p><p>Grâce à une <strong>chaleur réglable et apaisante</strong>, le <strong>Coussin Ergoneck</strong> stimule naturellement la circulation sanguine en dilatant les vaisseaux dans la zone cervicale. Cela crée plus d’espace pour le passage des fluides et des nutriments essentiels.</p><p>Une meilleure circulation apporte davantage d’<strong>oxygène</strong> et de <strong>nutriments essentiels</strong> à vos muscles du cou et à la tête, ce qui <strong>accélère le processus de récupération</strong> et contribue à réduire l’inflammation.</p><p>La <strong>thérapie par la chaleur</strong> est une méthode cliniquement prouvée et efficace pour soulager les crampes musculaires et favoriser une récupération plus rapide après des tensions ou des blessures.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -879,7 +903,8 @@
       "block_order": [
         "image_hEL86z",
         "image_KRiLwp",
-        "image_8cNfzC"
+        "image_8cNfzC",
+        "image_6pXXHw"
       ],
       "name": "Media with text",
       "settings": {
