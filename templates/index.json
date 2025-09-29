@@ -1023,6 +1023,20 @@
     },
     "175561560412ef5e2a": {
       "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_JdjKBy": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "neckflow-tmj",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_JdjKBy"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
