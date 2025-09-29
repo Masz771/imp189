@@ -822,7 +822,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p><strong>Libérez-vous des douleurs cervicales, du TMD et des maux de tête… le tout depuis chez vous.</strong></p><p>Des années de travail intense, de longues heures assis et une mauvaise posture exercent une pression néfaste sur notre colonne cervicale. La courbure naturelle du cou disparaît, les disques cervicaux se déplacent et des nerfs environnants se retrouvent comprimés. Cela provoque de fortes douleurs dans la nuque, les épaules, le haut du dos et les bras — et contribue aussi aux troubles de la mâchoire (TMD) ainsi qu’aux maux de tête de tension.</p><p>En s’allongeant seulement <strong>15 minutes par jour sur le NeckFlow</strong>, vous stimulez la circulation sanguine, détendez les muscles contractés, restaurez la courbure naturelle du cou et éliminez la cause des douleurs cervicales. Tout cela grâce à la <strong>puissante combinaison de massage, d’étirement et de chaleur</strong>.</p><p><strong>Le résultat ?</strong><br/><br/>Des nerfs libérés, moins de pression sur les disques abîmés et un cou qui retrouve sa santé — avec le sourire.</p><p>✅ <strong>92 % des utilisateurs ont ressenti moins de douleurs dès la première séance.</strong></p>",
+            "content": "<p>En s’allongeant seulement <strong>15 minutes par jour sur le Coussin Ergoneck</strong>, vous stimulez la circulation sanguine, détendez les muscles contractés, restaurez la courbure naturelle du cou et éliminez la cause des douleurs cervicales. Tout cela grâce à la <strong>puissante combinaison de massage, d’étirement et de chaleur</strong>.</p><p><strong>Le résultat ?</strong><br/><br/>Des nerfs libérés, moins de pression sur les disques abîmés et un cou qui retrouve sa santé — avec le sourire.</p><p>✅ <strong>92 % des utilisateurs ont ressenti moins de douleurs dès la première séance.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -832,10 +832,54 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_KRiLwp": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_8cNfzC": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_hEL86z"
+        "image_hEL86z",
+        "image_KRiLwp",
+        "image_8cNfzC"
       ],
       "name": "Media with text",
       "settings": {
