@@ -808,6 +808,41 @@
         "heading_gradient": ""
       }
     },
+    "media_with_text_D6UC7P": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_hEL86z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ezgif.com-video-to-gif-converter_2_800x_2x_600ebfe0-8e33-46d0-b704-4b6b690b4536.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><strong>Libérez-vous des douleurs cervicales, du TMD et des maux de tête… le tout depuis chez vous.</strong></p><p>Des années de travail intense, de longues heures assis et une mauvaise posture exercent une pression néfaste sur notre colonne cervicale. La courbure naturelle du cou disparaît, les disques cervicaux se déplacent et des nerfs environnants se retrouvent comprimés. Cela provoque de fortes douleurs dans la nuque, les épaules, le haut du dos et les bras — et contribue aussi aux troubles de la mâchoire (TMD) ainsi qu’aux maux de tête de tension.</p><p>En s’allongeant seulement <strong>15 minutes par jour sur le NeckFlow</strong>, vous stimulez la circulation sanguine, détendez les muscles contractés, restaurez la courbure naturelle du cou et éliminez la cause des douleurs cervicales. Tout cela grâce à la <strong>puissante combinaison de massage, d’étirement et de chaleur</strong>.</p><p><strong>Le résultat ?</strong><br/><br/>Des nerfs libérés, moins de pression sur les disques abîmés et un cou qui retrouve sa santé — avec le sourire.</p><p>✅ <strong>92 % des utilisateurs ont ressenti moins de douleurs dès la première séance.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hEL86z"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "multi_column_gbA79Y": {
       "type": "multi-column",
       "blocks": {
@@ -879,6 +914,7 @@
         "item_RQc79q",
         "item_jCDJDb"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -1139,6 +1175,7 @@
     "multi_column_TCk7H9",
     "featured_product_7ECepx",
     "tabs_GN4P73",
+    "media_with_text_D6UC7P",
     "multi_column_gbA79Y",
     "rich_text_KMWbtn",
     "175561560412ef5e2a",
