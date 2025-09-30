@@ -623,6 +623,12 @@
             "show_taxes_notice": false
           }
         },
+        "description_D4nPYJ": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "separator_hByp6X": {
           "type": "separator",
           "disabled": true,
@@ -717,6 +723,7 @@
         "liquid_hLVdx8",
         "title_QF8HGp",
         "price_3zNh6Y",
+        "description_D4nPYJ",
         "separator_hByp6X",
         "image_wb7Ume",
         "liquid_zmcyxW",
