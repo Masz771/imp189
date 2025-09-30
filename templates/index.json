@@ -623,10 +623,10 @@
             "show_taxes_notice": false
           }
         },
-        "description_D4nPYJ": {
-          "type": "description",
+        "text_RxhL4b": {
+          "type": "text",
           "settings": {
-            "collapse_content": false
+            "text": "<p>Prévenez ou soulagez naturellement les douleurs cervicales et <strong>corrigez une posture penchée</strong> en seulement <strong>15 minutes par jour</strong>, ou vous êtes <strong>remboursé</strong>.</p><p>✅ <strong>Soulagement immédiat des douleurs cervicales</strong> (sans antidouleurs)<br/><br/>✅ <strong>Corrige votre posture</strong> (pour vous tenir droit avec confiance)<br/><br/>✅ <strong>Réduit le stress</strong> (dormez mieux et sentez-vous mieux)<br/><br/>✅ <strong>Scientifiquement prouvé</strong><br/><br/>✅ <strong>90 jours d’essai sans risque</strong> — <em>pas satisfait ? Remboursé !</em></p>"
           }
         },
         "separator_hByp6X": {
@@ -723,7 +723,7 @@
         "liquid_hLVdx8",
         "title_QF8HGp",
         "price_3zNh6Y",
-        "description_D4nPYJ",
+        "text_RxhL4b",
         "separator_hByp6X",
         "image_wb7Ume",
         "liquid_zmcyxW",
