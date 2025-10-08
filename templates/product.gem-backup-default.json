@@ -1,0 +1,276 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_DJ4MjX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Stars<\/title>\n<\/head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.8<\/span>\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0647\/2148\/6072\/files\/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">Noté 4.8 par +1000 Clientes !<\/span>\n    <\/a>\n<\/body>\n<\/html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "image_Fqch4T": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "liquid_aDBdFd": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<section id=\"spacekris\">\n  <section id=\"lowstockkris\">\n    <article>\n      <b>\n        <ul>\n          <li><span id=\"random-stock\">4<\/span> items left at this price<\/li>\n        <\/ul>\n      <\/b>\n    <\/article>\n  <\/section>\n<\/section>\n \n<script>\n  \/\/ Générer un nombre aléatoire entre 3 et 10\n  var randomStock = Math.floor(Math.random() * 10) + 3;\n \n  \/\/ Remplacer le texte dans l'élément avec l'ID 'random-stock'\n  document.getElementById(\"random-stock\").textContent = randomStock;\n<\/script>\n \n<style>\n\/* Conteneur général *\/\n#spacekris {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; \/* Alignement sur la gauche *\/\n  margin-left: 0px; \/* Pas de décalage supplémentaire *\/\n  height: 30px; \/* Hauteur ajustée *\/\n}\n \n#lowstockkris {\n  box-shadow: rgba(17, 12, 46, 0.15) 0px 24px 50px 0px;\n  border-radius: 20px;\n  padding: 10px 15px; \/* Padding top\/bottom de 10px et gauche\/droite de 15px *\/\n  background-color: rgba(255, 0, 0, 0.1); \/* Légère transparence pour l'urgence *\/\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; \/* Alignement gauche du texte *\/\n  height: 30px; \/* Hauteur ajustée *\/\n}\n \n#lowstockkris b {\n  font-size: 12px; \/* Taille du texte *\/\n  color: #AD0000; \/* Couleur rouge foncé *\/\n  font-weight: normal;\n}\n \n\/* Suppression de la liste par défaut *\/\n#lowstockkris ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n \n\/* Animation pulsation pour le point rouge *\/\n#lowstockkris li:before {\n  content: '●'; \/* Point rouge *\/\n  margin-right: 5px;\n  color: #AD0000;\n  display: inline-block; \/* Bloc en ligne pour l'animation *\/\n  animation: pulse 1.5s infinite; \/* Animation continue *\/\n}\n \n\/* Définition de l'animation de pulsation *\/\n@keyframes pulse {\n  0% {\n    transform: scale(1);\n    opacity: 1; \/* Taille et opacité normales *\/\n  }\n  50% {\n    transform: scale(1.5); \/* Agrandissement du point *\/\n    opacity: 0.5; \/* Réduction de l'opacité *\/\n  }\n  100% {\n    transform: scale(1); \/* Retour à la taille initiale *\/\n    opacity: 1; \/* Opacité normale *\/\n  }\n}\n<\/style>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#ffd51e",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_m8twaL": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_DJ4MjX",
+        "title",
+        "badges",
+        "price",
+        "image_Fqch4T",
+        "rating",
+        "separator",
+        "description",
+        "liquid_aDBdFd",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "payment_terms",
+        "judge_me_reviews_preview_badge_m8twaL"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "sp_payment_icons_AzfVwT": {
+      "type": "sp-payment-icons",
+      "blocks": {
+        "image_BYPLgF": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        },
+        "image_E8WTLH": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        },
+        "image_e8EKE4": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BYPLgF",
+        "image_E8WTLH",
+        "image_e8EKE4"
+      ],
+      "disabled": true,
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "max_width": 1000,
+        "icon_height": 50,
+        "icon_gap": 5,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10,
+        "show_visa": true,
+        "show_mastercard": true,
+        "show_american_express": true,
+        "show_discover": false,
+        "show_paypal": true,
+        "show_apple_pay": false,
+        "show_google_pay": false,
+        "show_shop_pay": false
+      }
+    },
+    "17311443447f1d21d8": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17557906652db95c87": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "175574062955c90605": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1759161217667d08bd": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_AHffwq": {
+          "type": "shopify:\/\/apps\/pretty-comparison-tables\/blocks\/table\/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "{{product}}",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_AHffwq"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1759197966afb5d13f": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_ADfWPd": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_ADfWPd"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sp_payment_icons_AzfVwT",
+    "17311443447f1d21d8",
+    "17557906652db95c87",
+    "175574062955c90605",
+    "1759161217667d08bd",
+    "1759197966afb5d13f"
+  ]
+}
