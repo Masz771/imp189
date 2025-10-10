@@ -134,6 +134,59 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_BF8P97": {
+      "type": "impact-text",
+      "blocks": {
+        "item_dcqfCi": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Avant / Après",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_dcqfCi"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_K9pLiz": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/11_TablettesLave-LingeDetox_5e2762b3-e76d-4f77-8e7f-09369c2588ae.jpg",
+        "mobile_image": "shopify://shop_images/11_TablettesLave-LingeDetox_298c6106-d328-4798-a896-5a9ab4930c2c.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "before_after_image_q4y8KM": {
       "type": "before-after-image",
       "disabled": true,
@@ -1080,87 +1133,6 @@
         "text_color": ""
       }
     },
-    "media_with_text_QCNXfq": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_A3LiCk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/11_TablettesLave-LingeDetox.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>Une machine à laver pas si propre qu’elle en a l’air</strong></p><p>Avec le temps, votre machine à laver accumule des <strong>résidus de lessive</strong>, des <strong>poils d’animaux</strong> et de la <strong>saleté invisible</strong> dans les zones humides. Ces dépôts favorisent l’apparition de <strong>moisissures</strong>, de <strong>champignons</strong> et de <strong>mauvaises odeurs persistantes</strong>.<br/><br/>Petit à petit, ils encrassent le tambour, les joints et les conduits, réduisant l’efficacité du lavage et la durée de vie de votre appareil. Même si votre linge semble propre, <strong>l’intérieur de la machine, lui, ne l’est plus vraiment</strong>.</p><p>Heureusement, <strong>WashClean élimine tout</strong> : les résidus, les poils, la moisissure, les bactéries et les odeurs tenaces. Après un seul cycle, votre machine retrouve sa <strong>propreté d’origine</strong>, son <strong>efficacité</strong> et une <strong>fraîcheur durable</strong>.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "image_jiaQna": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/12_TablettesLave-LingeDetox.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>20 fois moins cher qu’un nettoyage professionnel</strong></p><p>Un entretien de machine à laver chez un technicien coûte en moyenne <strong>entre 80 € et 150 €</strong>, et une panne peut rapidement grimper à <strong>plus de 400 €</strong>.<br/><br/>Dans bien des cas, une machine mal entretenue finit même à la casse — ce qui représente <strong>plus de 600 €</strong> pour en racheter une neuve.</p><p>Avec <strong>WashClean</strong>, plus besoin de dépenser ces sommes.<br/><br/>Une simple tablette par mois suffit pour <strong>prévenir l’encrassement</strong>, <strong>éviter les pannes coûteuses</strong> et <strong>prolonger la durée de vie de votre machine</strong>.<br/><br/>Sa formule effervescente élimine le calcaire, les résidus, les poils d’animaux et les bactéries avant qu’ils ne causent des dégâts internes.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "image_fMzNhW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Nouveau_projet_3.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 72,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>Développé et recommandé par des experts</strong></p><p><strong>Ergoneck</strong> n’a pas seulement été testé en profondeur par notre équipe interne : il a également été envoyé à des dizaines de médecins et spécialistes renommés, qui l’ont essayé eux-mêmes et l’ont utilisé auprès de patients souffrant de problèmes cervicaux sévères.</p><p>La grande majorité d’entre eux recommande <strong>Ergoneck</strong> comme l’une des méthodes les plus efficaces pour une amélioration durable.</p><p>Vous pouvez désormais <strong>tester vous-même</strong> et constater des résultats garantis pour retrouver et maintenir une nuque en bonne santé sur le long terme — ou être <strong>remboursé</strong> si vous n’êtes pas satisfait.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_A3LiCk",
-        "image_jiaQna",
-        "image_fMzNhW"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
     "custom_liquid_NAJACE": {
       "type": "custom-liquid",
       "disabled": true,
@@ -1380,6 +1352,8 @@
     "logo_list_7RAtbB",
     "impact_text_b4Uc7c",
     "image_with_text_overlay_LF3m8r",
+    "impact_text_BF8P97",
+    "image_with_text_overlay_K9pLiz",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
     "image_with_text_overlay_VD8jzk",
@@ -1391,7 +1365,6 @@
     "multi_column_gbA79Y",
     "rich_text_KMWbtn",
     "175561560412ef5e2a",
-    "media_with_text_QCNXfq",
     "custom_liquid_NAJACE",
     "faq_dLcrRD",
     "17557877522b5da964",
