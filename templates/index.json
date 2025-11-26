@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "lg",
-        "image": "shopify://shop_images/20251010_0324_Machine_Avant_et_Apres_remix_01k75vca82f2qbgwj1n8051e4c_1.png",
-        "mobile_image": "shopify://shop_images/20251010_0324_Machine_Avant_et_Apres_remix_01k75vca82f2qbgwj1n8051e4c_1.png",
+        "image": "shopify://shop_images/20251126_0410_Grandes_Aventures_d_Engins_remix_01kaz248e7em9sh286v1nq6bgt_46bdf82a-5422-4d4e-990d-a975aa687134.png",
+        "mobile_image": "shopify://shop_images/20251126_0410_Grandes_Aventures_d_Engins_remix_01kaz248e7em9sh286v1nq6bgt.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,6 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_1_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,6 @@
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +45,6 @@
         "logo_eyLtrt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_10.png",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +52,6 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Nouveau_projet_3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -125,8 +121,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Copie_de_Moon_Bundle_template_checkout_1.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Moon_Bundle_template_checkout_1_c49f925d-b415-4e45-9c1e-5b49c9c72ab7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -178,8 +172,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/11_TablettesLave-LingeDetox_5e2762b3-e76d-4f77-8e7f-09369c2588ae.jpg",
-        "mobile_image": "shopify://shop_images/11_TablettesLave-LingeDetox_298c6106-d328-4798-a896-5a9ab4930c2c.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -599,7 +591,6 @@
         "item_Up8qdr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/e9ce87ff-c0ee-497c-beba-f0afa4ee72ec.jpg",
             "column_size": "4",
             "title": "— Marie L.",
             "heading_tag": "h5",
@@ -612,7 +603,6 @@
         "item_NJJzPg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/eed68cb0-1f37-41cf-85bd-4b7d63ea82ab.jpg",
             "column_size": "4",
             "title": "— Stéphanie D.",
             "heading_tag": "h5",
@@ -625,7 +615,6 @@
         "item_tYg9cC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/88f65e16-c7de-46a6-9132-bad20309861e.jpg",
             "column_size": "4",
             "title": "— Sarah M.",
             "heading_tag": "h5",
@@ -700,12 +689,6 @@
             "liquid": "<style>\n  .stock-alert {\n    background-color: #ffe6e6; /* rose clair */\n    padding: 10px 16px;\n    border-radius: 10px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n    color: #a00000;\n    font-weight: 600;\n    font-size: 13px;\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* léger effet d'ombre */\n    border: 1px solid #ffb3b3; /* contour doux */\n  }\n\n  .stock-alert strong {\n    color: #cc0000; /* accentuer la partie importante */\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <strong>Plus que 5 packs en stock</strong>\n</div>"
           }
         },
-        "kaching_bundles_app_block_NCz3gX": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "tablettes-lave-linge"
-          }
-        },
         "liquid_EHHArz": {
           "type": "liquid",
           "disabled": true,
@@ -768,7 +751,6 @@
         "image_3ixc9L": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Nouveau_projet_13.jpg",
             "alignment": "center",
             "max_width": 500
           }
@@ -782,7 +764,6 @@
         "separator_hByp6X",
         "liquid_zmcyxW",
         "liquid_HiCHya",
-        "kaching_bundles_app_block_NCz3gX",
         "liquid_EHHArz",
         "liquid_ALRLF6",
         "liquid_dqzqq4",
@@ -883,7 +864,6 @@
         "image_hEL86z": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9_Tablettes_Lave-Linge_Detox.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -905,7 +885,6 @@
         "image_KRiLwp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4_TablettesLave-LingeDetox.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -927,7 +906,6 @@
         "image_8cNfzC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2MK_TablettesLave-LingeDetox.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -950,7 +928,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/5ab74cf6de6246c8bf4c3cb9c8f25144-ezgif.com-video-to-gif-converter.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -1093,20 +1070,6 @@
     },
     "175561560412ef5e2a": {
       "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_JdjKBy": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "tablettes-lave-linge",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_JdjKBy"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1247,19 +1210,6 @@
     },
     "17557877522b5da964": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_Apqgdi": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "tablettes-lave-linge",
-            "review_data": "sample_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_Apqgdi"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
