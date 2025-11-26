@@ -31,6 +31,7 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-joueclub-site.png",
             "logo_width": 300,
             "link": ""
           }
@@ -38,13 +39,15 @@
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/png-clipart-la-grande-recre-toy-shop-beaugrenelle-paris-shopping-mall-game-hopscotch-child-text.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_eyLtrt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/5a1c3058f65d84088faf13df.png",
             "logo_width": 300,
             "link": ""
           }
@@ -52,7 +55,8 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Logo-KingJouet.png",
+            "logo_width": 300,
             "link": ""
           }
         }
